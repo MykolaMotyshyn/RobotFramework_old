@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.1 (Python 3.8.5 on win32)" generated="20200901 20:18:30.890" rpa="false">
+<suite id="s1" name="GoogleTranslationTest" source="C:\Users\Mykola_Motyshyn\PycharmProjects\pythonProject1\Test\GoogleTranslationTest.robot">
+<test id="s1-t1" name="Checking the translation">
+<kw name="Given the user is on the google translate page">
+<msg timestamp="20200901 20:18:30.918" level="FAIL">No keyword with name 'Given the user is on the google translate page' found.</msg>
+<status status="FAIL" starttime="20200901 20:18:30.918" endtime="20200901 20:18:30.919"></status>
+</kw>
+<status status="FAIL" starttime="20200901 20:18:30.917" endtime="20200901 20:18:30.919" critical="yes">No keyword with name 'Given the user is on the google translate page' found.</status>
+</test>
+<status status="FAIL" starttime="20200901 20:18:30.892" endtime="20200901 20:18:30.920"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="GoogleTranslationTest">GoogleTranslationTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
